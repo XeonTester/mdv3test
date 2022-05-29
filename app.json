@@ -1,0 +1,7 @@
+{
+	"name": "Cheems Bot MD V3",
+	"description": "WhatsApp Bot Using Nodejs and Multi Device Lib Baileys",
+	"repository": "https://github.com/DGXeon/CheemsBot-MD3",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": ["multi-device bot","whatsapp bot"]
+}
